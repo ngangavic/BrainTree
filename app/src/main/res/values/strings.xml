@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BrainTree</string>
+    <string name="token_failed">Fail to retrieve client token </string>
+</resources>
